@@ -11,3 +11,4 @@ function Dict()
   }
 }
 Dict()
+// Comment in Javascript
