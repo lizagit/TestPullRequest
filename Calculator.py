@@ -8,7 +8,11 @@ def add(x, y):
 def subtract(x, y):
     return x - y
 
+def mult(x,y):
+	return x*y
 
+def div(x,y):
+	return x/y
 
 print("Select operation.")
 print("1.Add")
@@ -32,10 +36,10 @@ while True:
             print(num1, "-", num2, "=", subtract(num1, num2))
 
         elif choice == '3':
-            pass
-
+            print(num1, "*", num2, "=", mult(num1, num2))
+            
         elif choice == '4':
-            pass
+            print(num1, "/", num2, "=", div(num1, num2))
         break
     else:
         print("Invalid Input")
