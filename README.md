@@ -14,12 +14,12 @@ touch  README.md      // Create a read me file
 vim README.md	  // Edit read me file. Press i to insert, esc+:+wq    (wq = write quit)
 rm README.md 	  // Remove our masterpiece
 ```
-#### Fork the repository on github
+#### Fork the repository on github 
 
 #### Clone the repository in the folder you created
 
 ```bash
-git clone https://github.com/Oceanestars/GIT-Linux-Tutorial.git
+git clone https://github.com/YourUsername/GIT-Linux-Tutorial.git. //forked version
 ```
 ### 2nd Step - Push code
 
@@ -130,7 +130,8 @@ Next steps:
 [Homebrew](https://brew.sh/ "Homebrew") <br />
 [Cmder](https://cmder.net/ "Console Emulator for Windows") <br />
 [Update forked repo](https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository "Update forked repo")<br />
-[Great upstream explanation](https://stackoverflow.com/questions/37770467/why-do-i-have-to-git-push-set-upstream-origin-branch "Set Upstream for your branch explanation")
+[Great upstream explanation](https://stackoverflow.com/questions/37770467/why-do-i-have-to-git-push-set-upstream-origin-branch "Set Upstream for your branch explanation") <br/>
+[Powerpoint Link](https://docs.google.com/presentation/d/1JZMtdtUaLqp9CrydJLEmLoGRrt0PcETV1CNeOSc5uIQ/edit?usp=sharing "Powerpoint Slides")
 
 
 
