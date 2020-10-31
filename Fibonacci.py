@@ -17,5 +17,4 @@ if nterms <= 0:
 else:
    print("Fibonacci sequence:")
    for i in range(nterms):
-       print(RecursionFibonacci(i))
-# What even is this?       
+       print(RecursionFibonacci(i))      
