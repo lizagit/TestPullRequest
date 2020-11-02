@@ -131,7 +131,9 @@ Next steps:
 [Cmder](https://cmder.net/ "Console Emulator for Windows") <br />
 [Update forked repo](https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository "Update forked repo")<br />
 [Great upstream explanation](https://stackoverflow.com/questions/37770467/why-do-i-have-to-git-push-set-upstream-origin-branch "Set Upstream for your branch explanation") <br/>
-[Powerpoint Link](https://docs.google.com/presentation/d/1JZMtdtUaLqp9CrydJLEmLoGRrt0PcETV1CNeOSc5uIQ/edit?usp=sharing "Powerpoint Slides")
+[Powerpoint Link](https://docs.google.com/presentation/d/1JZMtdtUaLqp9CrydJLEmLoGRrt0PcETV1CNeOSc5uIQ/edit?usp=sharing "Powerpoint Slides") <br/>
+[Good first issues](https://goodfirstissues.com/ "Good First Issues") <br/>
+[Github Education pack](https://education.github.com/pack "Github Education Pack")
 
 
 
