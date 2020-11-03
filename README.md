@@ -61,8 +61,8 @@ Tip: A big benefit to create branch is to unit test your code in the branch befo
 git checkout -b YourName 
 ```
 
-#### Fix the errors in Homepage.html
-Hint:  it says 3 errors, but technically you can only fix 2 in the code . The third one you have to add something to your folder .
+#### Fix the errors in Webpage.html
+Hint:  it says 5 errors, but technically you can only fix 4 in the code . The fifth one you have to add something to your folder .
 
 #### Push your changes to your branch 
 ```bash
@@ -135,7 +135,7 @@ Next steps:
 [Powerpoint Link](https://docs.google.com/presentation/d/1JZMtdtUaLqp9CrydJLEmLoGRrt0PcETV1CNeOSc5uIQ/edit?usp=sharing "Powerpoint Slides") <br/>
 [Good first issues](https://goodfirstissues.com/ "Good First Issues") <br/>
 [Github Education pack](https://education.github.com/pack "Github Education Pack") <br/>
-[Open Source for beginners](https://github.com/MunGell/awesome-for-beginners "Open Source for beginners")
+[Open Source for beginners](https://github.com/MunGell/awesome-for-beginners "Open Source for beginners") <br/>
 
 
 
