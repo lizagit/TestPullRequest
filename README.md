@@ -11,10 +11,11 @@ ls                                    // List all the folders/files of our locat
 mkdir  GitTutorial           // Create a folder(pick a place you feel comfortable with) 
 cd GitTutorial                 // Go into that folder
 touch  README.md      // Create a read me file
-vim README.md	  // Edit read me file. Press i to insert, esc+:+wq    (wq = write quit)
+vim README.md	  // Edit read me file. Press i to insert, esc+:+wq  (wq = write quit)(Will also create the file if it didn't exist)
+cat README.md      //Preview the file
 rm README.md 	  // Remove our masterpiece
 ```
-#### Fork the repository on github 
+#### Fork the repository on github (MUST DO THIS STEP BEFORE CLONING)
 
 #### Clone the repository in the folder you created
 
