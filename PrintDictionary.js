@@ -1,14 +1,15 @@
 function Dict()
 {
-  var dict = {};
-  var dict = {
+  dict = {};
+  dict = {
   "Python": "Super fun",
   "C++": "It's ok I guess",
-  "C#: "wHo"
+  "C#: "wHo",
   };
   for(var key in dict) {
-  var value = dict[key];
+  var value = dict[key]
   }
 }
 Dict()
+
 // Comment in Javascript
