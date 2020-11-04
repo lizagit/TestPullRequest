@@ -20,7 +20,7 @@ rm README.md 	  // Remove our masterpiece
 #### Clone the repository in the folder you created
 
 ```bash
-git clone https://github.com/YourUsername/GIT-Linux-Tutorial.git. //forked version
+git clone https://github.com/YourUsername/TestPullRequest.git. //forked version
 ```
 ### 2nd Step - Push code
 
@@ -58,18 +58,19 @@ Go check on your github your changes!
 Tip: A big benefit to create branch is to unit test your code in the branch before you merge it with master
 
 ```bash
-git checkout -b YourName 
+git checkout -b MyFirstBranch_YourName 
 ```
 
 #### Fix the errors in Webpage.html
 Hint:  it says 5 errors, but technically you can only fix 4 in the code . The fifth one you have to add something to your folder .
+(it's totally okay if you don't find all of them)
 
 #### Push your changes to your branch 
 ```bash
 git status
 git add .
 git commit -m “ Fixed blabla”
-git push --set-upstream origin nameofyourbranch 
+git push --set-upstream origin nameofyourbranch     //you only need to do this one time then the second time you push you just need git push
 git log
 ```
 ### 4th Step - Pull request
@@ -136,6 +137,8 @@ Next steps:
 [Good first issues](https://goodfirstissues.com/ "Good First Issues") <br/>
 [Github Education pack](https://education.github.com/pack "Github Education Pack") <br/>
 [Open Source for beginners](https://github.com/MunGell/awesome-for-beginners "Open Source for beginners") <br/>
+
+Do you have any good resource that could complement this? Do a pull request!
 
 
 
